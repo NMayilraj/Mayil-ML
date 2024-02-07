@@ -1,0 +1,24 @@
+The total number of html files are 1
+The files are below
+1. C:\Users\Mayilraj\Documents\Learning\Search\10-Q.html
+
+The total number of pdf files are 3
+The files are below
+1. C:\Users\Mayilraj\Documents\Learning\Search\standard-chartered-plc-full-year-2022-report-protected (1).pdf
+2. C:\Users\Mayilraj\Documents\Learning\Search\standard-chartered-plc-full-year-2022-report-protected.pdf
+3. C:\Users\Mayilraj\Documents\Learning\Search\standard-chartered-plc-full-year-2022-report.pdf
+
+The total number of zip files are 2
+The files are below
+1. C:\Users\Mayilraj\Documents\Learning\Search\stitchedFiles (5).zip
+2. C:\Users\Mayilraj\Documents\Learning\Search\stitchedFiles (6).zip
+
+The total number of htm files are 3
+The files are below
+1. C:\Users\Mayilraj\Documents\Learning\Search\mergedContent (1).htm
+2. C:\Users\Mayilraj\Documents\Learning\Search\mergedContent.htm
+3. C:\Users\Mayilraj\Documents\Learning\Search\Skel.htm
+
+The total number of txt files are 1
+The files are below
+1. C:\Users\Mayilraj\Documents\Learning\Search\myfiles.txt
